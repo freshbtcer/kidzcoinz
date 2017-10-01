@@ -2272,8 +2272,8 @@ Adresse : %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 71333 or testnet: 171333)</source>
-        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (par défaut : 71333 ou tesnet : 171333)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 71333 or testnet: 61330)</source>
+        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (par défaut : 71333 ou tesnet : 61330)</translation>
     </message>
     <message>
         <location line="+37"/>

@@ -1,0 +1,34 @@
+src/*.exe
+src/kidzcoinz
+src/kidzcoinzd
+src/test_kidzcoinz
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.kidzcoinz
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+kidzcoinz-qt
+KidzCoinz-Qt.app
+
+# Unit-tests
+Makefile.test
+kidzcoinz-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
